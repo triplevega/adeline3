@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/adeline3/static/css/main.c04990d3.css",
+    "main.js": "/adeline3/static/js/main.69704b1b.js",
+    "static/js/787.ddc1c1e2.chunk.js": "/adeline3/static/js/787.ddc1c1e2.chunk.js",
+    "static/media/adelineparc.png": "/adeline3/static/media/adelineparc.30bd690967f353d9ba0b.png",
+    "static/media/1.jpg": "/adeline3/static/media/1.40c4389226f9c5d4e64a.jpg",
+    "static/media/logo.svg": "/adeline3/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/adeline3/index.html",
+    "main.c04990d3.css.map": "/adeline3/static/css/main.c04990d3.css.map",
+    "main.69704b1b.js.map": "/adeline3/static/js/main.69704b1b.js.map",
+    "787.ddc1c1e2.chunk.js.map": "/adeline3/static/js/787.ddc1c1e2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c04990d3.css",
+    "static/js/main.69704b1b.js"
+  ]
+}
