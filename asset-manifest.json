@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/adeline3/static/css/main.f4787610.css",
-    "main.js": "/adeline3/static/js/main.a2c3d49c.js",
+    "main.css": "/adeline3/static/css/main.61bbd51b.css",
+    "main.js": "/adeline3/static/js/main.896c9c4c.js",
     "static/js/787.ddc1c1e2.chunk.js": "/adeline3/static/js/787.ddc1c1e2.chunk.js",
     "static/media/adelineparc.png": "/adeline3/static/media/adelineparc.30bd690967f353d9ba0b.png",
     "static/media/pont.png": "/adeline3/static/media/pont.60ece31679623e6cd7be.png",
     "static/media/1.jpg": "/adeline3/static/media/1.40c4389226f9c5d4e64a.jpg",
     "static/media/logo.svg": "/adeline3/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/adeline3/index.html",
-    "main.f4787610.css.map": "/adeline3/static/css/main.f4787610.css.map",
-    "main.a2c3d49c.js.map": "/adeline3/static/js/main.a2c3d49c.js.map",
+    "main.61bbd51b.css.map": "/adeline3/static/css/main.61bbd51b.css.map",
+    "main.896c9c4c.js.map": "/adeline3/static/js/main.896c9c4c.js.map",
     "787.ddc1c1e2.chunk.js.map": "/adeline3/static/js/787.ddc1c1e2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f4787610.css",
-    "static/js/main.a2c3d49c.js"
+    "static/css/main.61bbd51b.css",
+    "static/js/main.896c9c4c.js"
   ]
 }
